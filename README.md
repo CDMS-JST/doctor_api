@@ -1,6 +1,4 @@
 # 糖尿病アプリケーション（サーバ）
-当初の開発委託先で本学理工学部担当者から完成版（動作確認済み）として提供されたプログラムは下記の通りであった。
-（構成）
 データベースとその管理用アプリケーション群（phpスクリプト）からなる。
 
 [ベースURL https://suhtar.hospital.med.saga-u.ac.jp/doctor_api/api/](https://suhtar.hospital.med.saga-u.ac.jp/doctor_api/api/)
